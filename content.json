@@ -1,0 +1,156 @@
+{
+  "site": {
+    "name": "Chios Cleaning",
+    "title": "Chios Cleaning | Professional House & Office Cleaning in Las Cruces, NM",
+    "description": "Chios Cleaning offers professional residential & commercial cleaning services in Las Cruces, NM. Trusted, eco-friendly cleaning with flexible scheduling. Free estimates!",
+    "url": "https://www.chioscleaning.com",
+    "phone": "(575) 520-2483",
+    "email": "chiosclean@gmail.com",
+    "location": "Las Cruces, NM"
+  },
+  "images": {
+    "logo": "img/logo.png",
+    "icon": "img/icon.png",
+    "iconIco": "img/icon.ico",
+    "banner": "img/banner.png",
+    "hero": "img/group.jpeg",
+    "badge": "img/zia.png",
+    "serviceArea": "img/servicearea.png",
+    "about": "img/back.jpeg",
+    "team": {
+      "aracely": "img/aracely.jpeg",
+      "dora": "img/dora.jpeg",
+      "felix": "img/felix.jpeg",
+      "marissa": "img/marissa.png",
+      "jasmin": "img/jasmin.png",
+      "jake": "img/jake.png"
+    }
+  },
+  "content": {
+    "hero": {
+      "title": "Exceptional Cleaning",
+      "subtitle": "in Las Cruces",
+      "text": "Professional cleaning solutions tailored to your residential or commercial needs.",
+      "cta": {
+        "primary": {
+          "text": "Get a Free Quote",
+          "link": "#quote"
+        },
+        "secondary": {
+          "text": "Our Services",
+          "link": "#services"
+        }
+      },
+      "badge": {
+        "text": "Locally Owned & Operated",
+        "icon": "img/zia.png"
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Professional Cleaning Solutions",
+      "items": [
+        {
+          "title": "Residential Cleaning",
+          "description": "Regular and deep cleaning services for your home",
+          "icon": "fas fa-home"
+        },
+        {
+          "title": "Commercial Cleaning",
+          "description": "Professional office and commercial space cleaning",
+          "icon": "fas fa-building"
+        },
+        {
+          "title": "Move-In/Move-Out",
+          "description": "Thorough cleaning for moving in or out",
+          "icon": "fas fa-truck-moving"
+        },
+        {
+          "title": "Airbnb Cleaning",
+          "description": "Quick turnaround cleaning for rental properties",
+          "icon": "fas fa-key"
+        }
+      ]
+    },
+    "about": {
+      "title": "About Us",
+      "subtitle": "Your Trusted Cleaning Partner",
+      "text": "We are a locally owned and operated cleaning service dedicated to providing exceptional cleaning solutions for homes and businesses in Las Cruces, New Mexico."
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Meet the Professionals",
+      "members": [
+        {
+          "name": "Marissa Chávez",
+          "role": "Owner & Founder",
+          "image": "img/marissa.png"
+        },
+        {
+          "name": "Jasmine Munoz",
+          "role": "Operations Manager",
+          "image": "img/jasmin.png"
+        },
+        {
+          "name": "Jake Mossman",
+          "role": "Lead Technician",
+          "image": "img/jake.png"
+        }
+      ]
+    },
+    "contact": {
+      "phone": "(575) 520-2483",
+      "email": "chiosclean@gmail.com",
+      "address": "Las Cruces, NM",
+      "formAction": "https://formspree.io/f/mvgaqpzq"
+    },
+    "footer": {
+      "about": "Professional cleaning services in Las Cruces, NM.",
+      "social": {
+        "facebook": "https://www.facebook.com/chioscleanings",
+        "instagram": "https://www.instagram.com/chioscleanings"
+      }
+    }
+  },
+  "styles": {
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#f8fafc",
+      "accent": "#d4611c",
+      "text": "#1f2937",
+      "textLight": "#6b7280"
+    },
+    "fonts": {
+      "primary": "Figtree",
+      "fallback": "sans-serif"
+    }
+  },
+  "meta": {
+    "keywords": "cleaning service Las Cruces, house cleaning, commercial cleaning, maid service, deep cleaning, move-in/move-out cleaning, eco-friendly cleaning, professional cleaners NM",
+    "og": {
+      "title": "Chios Cleaning | Premium Cleaning Services in Las Cruces, NM",
+      "description": "Professional residential & commercial cleaning services in Las Cruces. Eco-friendly solutions with flexible scheduling.",
+      "image": "img/banner.png"
+    },
+    "schema": {
+      "type": "LocalBusiness",
+      "name": "Chios Cleaning",
+      "telephone": "+1-575-520-2483",
+      "priceRange": "$$",
+      "address": {
+        "addressLocality": "Las Cruces",
+        "addressRegion": "NM",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "latitude": 32.3199,
+        "longitude": -106.7637
+      },
+      "openingHours": [
+        "Monday-Friday 08:00-18:00",
+        "Saturday 08:00-18:00"
+      ]
+    }
+  }
+}
+
